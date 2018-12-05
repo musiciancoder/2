@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2</string>
+    <string name="mejor_puntuacion">best score: </string>
+    <string name="comenzar">start</string>
+    <string name="salir">exit</string>
+    <string name="puntaje">score:</string>
+    <string name="volver_a_jugar">play again</string>
+</resources>
